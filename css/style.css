@@ -46,3 +46,52 @@ main{
     padding-top: 10px;
     border-bottom:2px solid rgb(216, 216, 216);
 }
+
+
+.check{
+    color: #65c1ab;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #65c1ab;
+    border-radius: 50%;
+}
+
+.mark{
+    color: #e73b33;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #e73b33;
+    border-radius: 50%;
+}
+
+
+.click{
+    border-radius: 30px;
+    line-height: 20px;
+    color: white;
+    padding: 5px;
+}
+
+._blue{
+    background-color: #45abea;
+}
+
+._purple{
+    background-color: #9c72e4;
+}
+
+._green{
+    background-color: #64c0a9;
+}
+
+._yellow{
+    background-color: #f29e33;
+}
+
+._pink{
+    background-color: #d863a1;
+}
+
+._verdastro{
+    background-color: #b0c926;
+}
