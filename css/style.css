@@ -9,3 +9,40 @@
     display: inline-block;
     font-size: 40px;
 }
+
+
+main{
+    background-color: rgb(229, 228, 228);
+    height: 800px;
+    padding: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.content{
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 3%;
+}
+
+.but1{
+    background-color: #47adf1;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10%;
+}
+
+.but2{
+    background-color: white;
+    color: #c3ced1;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10%;
+    border-color: #c3ced1; 
+}
+
+.border{
+    padding-top: 10px;
+    border-bottom:2px solid rgb(216, 216, 216);
+}
