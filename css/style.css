@@ -52,26 +52,37 @@ main{
     border-color: #c3ced1; 
 }
 
-.border{
-    padding-top: 10px;
-    border-bottom:2px solid rgb(216, 216, 216);
+section:first-child{
+    border-bottom: 1px solid rgb(216, 216, 216);
+    padding: 10px;
 }
 
+h3:first-child{
+    padding-top: 20px;
+}
+
+h3{
+    padding-bottom: 1px;
+}
+
+div{
+    padding:9px;
+  }
 
 .check{
     color: #65c1ab;
     width: 30px;
-    height: 30px;
     border: 3px solid #65c1ab;
     border-radius: 50%;
+    padding: 5px;
 }
 
 .mark{
     color: #e73b33;
     width: 30px;
-    height: 30px;
     border: 3px solid #e73b33;
     border-radius: 50%;
+    padding: 5px;
 }
 
 
