@@ -10,11 +10,16 @@ header{
     padding: 10px;
 }
 
-.box, h1{
-    display: inline-block;
-    font-size: 40px;
+header img{
+    vertical-align: middle;
 }
 
+h1{
+    display: inline-block;
+    font-size: 40px;
+    vertical-align: middle;
+    font-weight: 400px;
+}
 
 main{
     background-color: rgb(229, 228, 228);
